@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\classwork.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\classwork.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\classwork.AssemblyInfo.cs
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\classwork.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\bin\Debug\net5.0\classwork.exe
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\bin\Debug\net5.0\classwork.deps.json
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\bin\Debug\net5.0\classwork.runtimeconfig.json
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\bin\Debug\net5.0\classwork.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\bin\Debug\net5.0\classwork.dll
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\bin\Debug\net5.0\classwork.pdb
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\classwork.dll
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\refint\classwork.dll
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\classwork.pdb
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\classwork.genruntimeconfig.cache
+C:\Users\Omer\Desktop\classworkClass\WorkOfClass\classwork\obj\Debug\net5.0\ref\classwork.dll
